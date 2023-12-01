@@ -1,6 +1,6 @@
 # Matrix_Multiplication_Hardwre_Accelerator
 Baseline_for_Low-overhead_Fault-tolerant_Logic_for_Field-programmable_Gate_Arrays
-This project is based on Verilog HDL modeling a matrix multiplication hardware accelerator. \n
+This project is based on Verilog HDL modeling a matrix multiplication hardware accelerator. \\n
 Design files contain: \n
 (1)top.v ： Condensing of submodules
 (2)counter.v ：Counts the number of rows of matrix A taken
